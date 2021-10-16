@@ -27,6 +27,6 @@ You can use the search box to find a particular robot..
 
 ### Hosting
 
-The following link will take you directly to our website by clicking on it or you can copy and paste this link on your browser
+The following link will take you directly to our website by clicking on it or you can copy and paste this link on your browser:
 https://arjunhollam.github.io/robofriends/
   
